@@ -33,7 +33,7 @@ El objetivo del curso es realizar una página web _responsive_ y dinámica, simi
 
 4.  `JavaScript`
     
-    4.1 Sintáxis
+    4.1 Sintaxis
 
     Aprenderemos las bases de `JavaScript` como lenguaje de programación, esto nos servirá luego para llevarlo al navegador y entender su funcionamiento.
 
