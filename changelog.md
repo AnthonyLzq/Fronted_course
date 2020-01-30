@@ -5,3 +5,6 @@
 
 ## Versión 1.0.1
 -   Corregido error ortográfico.
+
+## Versión 1.0.2
+-   Sílabo calendarizado.
